@@ -92,6 +92,15 @@ tooltip label {
     color: @orange;
 }
 
+#custom-media {
+    color: @orange
+}
+
+#custom-media:hover{
+    color:rgb(253, 169, 86);
+    transition: all 1s ease;
+}
+
 #clock {
     color: @orange
 }
